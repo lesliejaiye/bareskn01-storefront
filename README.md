@@ -1,4 +1,6 @@
 # Bareskn | Shopify E-Commerce Development
+Building a modern Shopify storefront for a skincare brand, exploring e-commerce development, Liquid templating, dynamic product data, metafields, metaobjects, and custom theme development. Developed using Shopify CLI, JavaScript, and Git.
+=======
 
 ## Project Overview
 
