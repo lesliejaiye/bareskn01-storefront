@@ -1,5 +1,4 @@
 # Bareskn | Shopify E-Commerce Development
-=======
 
 ## Project Overview
 
